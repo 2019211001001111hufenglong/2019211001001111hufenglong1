@@ -9,6 +9,6 @@
     </servlet>
     <servlet-mapping>
         <servlet-name>anyName</servlet-name>
-        <url-pattern>/hello</url-pattern>
+        <url-pattern>/hello000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</url-pattern>
     </servlet-mapping>
 </web-app>
