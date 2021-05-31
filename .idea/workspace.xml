@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
+      <artifact name="2019211001001111Hufenglong:war" />
       <artifact name="2019211001001111Hufenglong:war exploded" />
     </artifacts-to-build>
   </component>
@@ -9,9 +10,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8cd95c91-709d-4e9f-be95-b97d4fa71ad0" name="Default Changelist" comment="Frist Commit">
+    <list default="true" id="8cd95c91-709d-4e9f-be95-b97d4fa71ad0" name="Default Changelist" comment="HW2 WORK Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/2019211001001111Hufenglong_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/2019211001001111Hufenglong_war_exploded.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019211001001111Hufenglong.iml" beforeDir="false" afterPath="$PROJECT_DIR$/2019211001001111Hufenglong.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/MyJsp.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/MyJsp.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/Hufenglong2019211001001111-1.0-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/Hufenglong2019211001001111-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +44,9 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectId" id="1pW6bHYqEeFtkiDaIR4QfAfGhwX" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -47,25 +56,106 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/dao" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\IdeaProjects\2019211001001111Hufenglong\src\main\java\com\dao" />
+      <recent name="C:\Users\Lenovo\IdeaProjects\2019211001001111Hufenglong\src\main\java\com\controller" />
+      <recent name="C:\Users\Lenovo\IdeaProjects\2019211001001111Hufenglong\src\main\java\com\week6\demo" />
+      <recent name="C:\Users\Lenovo\IdeaProjects\2019211001001111Hufenglong\src\main\java\com\model" />
+      <recent name="C:\Users\Lenovo\IdeaProjects\2019211001001111Hufenglong\src\main\webapp\WEB-INF\views" />
+    </key>
+  </component>
   <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Tomcat 8.5.63" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.63" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8081/2019211001001111Hufenglong_war_exploded/" />
+      <option name="UPDATING_POLICY" value="hot-swap-classes" />
       <deployment>
         <artifact name="2019211001001111Hufenglong:war exploded">
           <settings>
             <option name="CONTEXT_PATH" value="/2019211001001111Hufenglong_war_exploded" />
           </settings>
         </artifact>
+        <artifact name="2019211001001111Hufenglong:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/2019211001001111Hufenglong_war" />
+          </settings>
+        </artifact>
       </deployment>
       <server-settings>
         <option name="BASE_DIRECTORY_NAME" value="3d44d82b-a949-4ecf-8323-67dd59f3bd43" />
+        <option name="HTTP_PORT" value="8081" />
+        <option name="JNDI_PORT" value="1100" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
       <predefined_log_file id="Tomcat Manager" />
       <predefined_log_file id="Tomcat Host Manager" />
       <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="55459" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
         <option name="USE_ENV_VARIABLES" value="true" />
         <STARTUP>
@@ -85,6 +175,7 @@
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
           <artifact name="2019211001001111Hufenglong:war exploded" />
+          <artifact name="2019211001001111Hufenglong:war" />
         </option>
       </method>
     </configuration>
@@ -101,7 +192,12 @@
       <workItem from="1616000394415" duration="1135000" />
       <workItem from="1616085472731" duration="9836000" />
       <workItem from="1616686699524" duration="666000" />
-      <workItem from="1622458015190" duration="419000" />
+      <workItem from="1622458015190" duration="1626000" />
+      <workItem from="1622461182861" duration="2254000" />
+      <workItem from="1622463497065" duration="880000" />
+      <workItem from="1622464468977" duration="835000" />
+      <workItem from="1622465363392" duration="1778000" />
+      <workItem from="1622467180445" duration="1359000" />
     </task>
     <task id="LOCAL-00001" summary="Frist Commit">
       <created>1615286938109</created>
@@ -124,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616088011879</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="HW2 WORK Commit">
+      <created>1622458708396</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1622458708397</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,6 +248,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Frist Commit" />
     <MESSAGE value="HW-Week2 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW-Week2 commit" />
+    <MESSAGE value="HW2 WORK Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW2 WORK Commit" />
   </component>
 </project>
