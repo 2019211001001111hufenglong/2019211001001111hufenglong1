@@ -10,16 +10,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8cd95c91-709d-4e9f-be95-b97d4fa71ad0" name="Default Changelist" comment="HW2 WORK Commit">
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/2019211001001111Hufenglong_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/2019211001001111Hufenglong_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2019211001001111Hufenglong.iml" beforeDir="false" afterPath="$PROJECT_DIR$/2019211001001111Hufenglong.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/MyJsp.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/MyJsp.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Hufenglong2019211001001111-1.0-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/Hufenglong2019211001001111-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8cd95c91-709d-4e9f-be95-b97d4fa71ad0" name="Default Changelist" comment="Home Work-Code Exercise#2 Commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,17 +63,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Tomcat 8.5.63" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.63" ALTERNATIVE_JRE_ENABLED="false">
       <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8081/2019211001001111Hufenglong_war_exploded/" />
       <option name="UPDATING_POLICY" value="hot-swap-classes" />
@@ -197,7 +177,7 @@
       <workItem from="1622463497065" duration="880000" />
       <workItem from="1622464468977" duration="835000" />
       <workItem from="1622465363392" duration="1778000" />
-      <workItem from="1622467180445" duration="1359000" />
+      <workItem from="1622467180445" duration="1926000" />
     </task>
     <task id="LOCAL-00001" summary="Frist Commit">
       <created>1615286938109</created>
@@ -227,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622458708397</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Home Work-Code Exercise#2 Commit">
+      <created>1622468700902</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1622468700906</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -249,6 +236,7 @@
     <MESSAGE value="Frist Commit" />
     <MESSAGE value="HW-Week2 commit" />
     <MESSAGE value="HW2 WORK Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW2 WORK Commit" />
+    <MESSAGE value="Home Work-Code Exercise#2 Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Home Work-Code Exercise#2 Commit" />
   </component>
 </project>
