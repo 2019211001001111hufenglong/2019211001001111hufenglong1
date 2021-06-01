@@ -11,7 +11,7 @@ import java.io.IOException;
 import java.io.OutputStream;
 import java.sql.Connection;
 import java.sql.SQLException;
-    
+
 @WebServlet(name = "GetImgServlet",value = "/getImg")
 public class GetImgServlet extends HttpServlet {
     Connection con = null;
