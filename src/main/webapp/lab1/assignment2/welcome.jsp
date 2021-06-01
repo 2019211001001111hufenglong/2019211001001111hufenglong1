@@ -4,7 +4,7 @@
 <html>
 <head>
     <title>Welcome</title>
-</head>
+</head>   
 <body>
 <h1>hello</h1>
 <h2>Welcome,<%-- todo 8 use c:out to print username from parammeter --%>
