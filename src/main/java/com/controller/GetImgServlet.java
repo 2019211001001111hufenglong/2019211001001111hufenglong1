@@ -33,7 +33,7 @@ public class GetImgServlet extends HttpServlet {
         try {
             byte[] imgByte =new byte[0];
           imgByte=  productDao.getPictureById(id,con);
-          if (imgByte!=null){  
+          if (imgByte!=null){
               response.setContentType("image/gif");
               OutputStream out = response.getOutputStream();
               out.write(imgByte);
@@ -43,4 +43,5 @@ public class GetImgServlet extends HttpServlet {
             e.printStackTrace();
         }
     }
+
 }

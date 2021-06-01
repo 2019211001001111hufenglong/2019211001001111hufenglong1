@@ -28,50 +28,7 @@
         <servlet-name>RegisterServlet</servlet-name>
         <servlet-class>com.week3.demo.RegisterServlet</servlet-class>
     </servlet>
-<!--    <servlet>-->
-<!--        <servlet-name>ConfigDemoServlet</servlet-name>-->
-<!--        <servlet-class>com.zourongsheng.week4.demo.ConfigDemoServlet</servlet-class>-->
 
-<!--        <init-param>-->
-<!--            <param-name>name</param-name>-->
-<!--            <param-value>Zourongsheng</param-value>-->
-<!--        </init-param>-->
-<!--        <init-param>-->
-<!--            <param-name>studentId</param-name>-->
-<!--            <param-value>2019211001001106</param-value>-->
-<!--        </init-param>-->
-<!--    </servlet>-->
-<!--    <servlet>-->
-<!--        <servlet-name>RegisterServlet04</servlet-name>-->
-<!--        <servlet-class>com.zourongsheng.week4.demo.RegisterServlet04</servlet-class>-->
-<!--        <init-param>-->
-<!--            <param-name>driver</param-name>-->
-<!--            <param-value>com.microsoft.sqlserver.jdbc.SQLServerDriver</param-value>-->
-<!--        </init-param>-->
-<!--        <init-param>-->
-<!--            <param-name>url</param-name>-->
-<!--            <param-value>jdbc:sqlserver://localhost;databaseName=userdb;</param-value>-->
-<!--        </init-param>-->
-<!--        <init-param>-->
-<!--            <param-name>username</param-name>-->
-<!--            <param-value>sa</param-value>-->
-<!--        </init-param>-->
-<!--        <init-param>-->
-<!--            <param-name>password</param-name>-->
-<!--            <param-value>admin123456789</param-value>-->
-<!--        </init-param>-->
-<!--    </servlet>-->
-
-<!--    <servlet-mapping>-->
-<!--        <servlet-name>ConfigDemoServlet</servlet-name>-->
-<!--        <url-pattern>/config</url-pattern>-->
-<!--    </servlet-mapping>-->
-
-<!--    <servlet-mapping>-->
-<!--        <servlet-name>Zourongsheng</servlet-name>-->
-<!--        <url-pattern>/hello</url-pattern>-->
-
-<!--    </servlet-mapping>-->
     <servlet-mapping>
         <servlet-name>LifeCycleServlet</servlet-name>
         <url-pattern>/life</url-pattern>
@@ -80,39 +37,13 @@
         <servlet-name>RegisterServlet</servlet-name>
         <url-pattern>/week3/register</url-pattern>
     </servlet-mapping>
-<!--    <servlet-mapping>-->
-<!--        <servlet-name>RegisterServlet04</servlet-name>-->
-<!--        <url-pattern>/register</url-pattern>-->
-<!--    </servlet-mapping>-->
+
     <welcome-file-list>
         <welcome-file>home</welcome-file>
     </welcome-file-list>
     <welcome-file-list>
         <welcome-file>home</welcome-file>
     </welcome-file-list>
-<!--    <filter>-->
-<!--        <filter-name>HelloFilter</filter-name>-->
-<!--        <filter-class>com.zourongsheng.filter.HelloFilter</filter-class>-->
-<!--    </filter>-->
-<!--    <filter-mapping>-->
-<!--        <filter-name>HelloFilter</filter-name>-->
-<!--        <url-pattern>/hello</url-pattern>-->
-<!--    </filter-mapping>-->
-<!--    <filter>-->
-<!--        <filter-name>LoggerFilter</filter-name>-->
-<!--        <filter-class>com.zourongsheng.filter.LoggerFilter</filter-class>-->
-<!--    </filter>-->
-<!--    <filter>-->
-<!--        <filter-name>AuthFilter</filter-name>-->
-<!--        <filter-class>com.zourongsheng.filter.AuthFilter</filter-class>-->
-<!--    </filter>-->
-<!--    <filter-mapping>-->
-<!--        <filter-name>LoggerFilter</filter-name>-->
-<!--        <url-pattern>/hello</url-pattern>-->
-<!--    </filter-mapping>-->
-<!--    <filter-mapping>-->
-<!--        <filter-name>AuthFilter</filter-name>-->
-<!--        <url-pattern>/hello</url-pattern>-->
-<!--    </filter-mapping>-->
+
 
 </web-app>
